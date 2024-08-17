@@ -3,10 +3,10 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Main Home screen
-![Alt Text](src/assets/2.png)
+![Alt Text](src/assets/g2.png)
 
 # Add Task of items 
-![Alt Text](src/assets/1.png)
+![Alt Text](src/assets/g1.png)
 
 
 Currently, two official plugins are available:
